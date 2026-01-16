@@ -4,8 +4,7 @@ public class H2_main {
 	private static long[] cache = new long[100];
 
 	public static void main(String[] args) {
-		benchmark(3);
-		benchmark(3);
+		
 	}
 
 	public static long fibonacchi(int n) {
